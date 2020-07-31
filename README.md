@@ -7,6 +7,12 @@ This analysis is conducted with inspiration by José Pérez (https://twitter.com
 ## Content
 
 * **notebooks**
+- part1_basicMetrics.ipynb
+
+- part2_advancedMetrics.ipynb
+
+- part3_advancedMetrics.ipynb
+
 
 * **data**
 
